@@ -1,0 +1,24 @@
+.similar_jobs_list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+}
+.individual_job {
+  background-color: lightslategray;
+  border-radius: 6px;
+  padding: 8px;
+}
+
+.inner_cont1 {
+  display: flex;
+}
+
+.company_logo {
+  height: 35px;
+  width: 35px;
+}
+
+.location {
+  display: flex;
+}

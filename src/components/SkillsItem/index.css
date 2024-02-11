@@ -1,0 +1,17 @@
+.individual_skill {
+  display: flex;
+  width: 500px;
+  color: white;
+  margin: 10px;
+}
+
+.skill_image {
+  height: 40px;
+  width: 40px;
+}
+
+.skills_list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

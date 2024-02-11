@@ -1,0 +1,35 @@
+.link_item {
+  text-decoration: none;
+}
+
+.individual_item {
+  background-color: #2c364c;
+  padding: 10px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  width: 550px;
+}
+.logo_container {
+  display: flex;
+}
+.intro_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.title_container {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+
+.location_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.company_logo {
+  height: 25px;
+  width: 25px;
+}
